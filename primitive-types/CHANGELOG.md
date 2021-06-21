@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog].
 
 ## [Unreleased]
 - Added `U128::full_mul` method. [#546](https://github.com/paritytech/parity-common/pull/546)
+- Updated `parity-scale-codec` to `2.2.0-rc.2`, implementing new `MaxEncodedLen` trait.
 ### Breaking
 - Updated `scale-info` to 0.6. [#519](https://github.com/paritytech/parity-common/pull/519)
 
