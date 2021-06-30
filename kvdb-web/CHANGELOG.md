@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog].
 
 ## [Unreleased]
 
+## [0.10.0] - 2021-XX-YY TODO: Pick a date
+
+### Breaking
+- Updated `kvdb` to 0.10. [#552](https://github.com/paritytech/parity-common/pull/552)
+- Updated `kvdb-memorydb` to 0.10. [#552](https://github.com/paritytech/parity-common/pull/552)
+- Updated `parity-util-mem` to 0.10. [#552](https://github.com/paritytech/parity-common/pull/552)
+
 ## [0.9.0] - 2021-01-27
 ### Breaking
 - Updated `kvdb` to 0.9. [#510](https://github.com/paritytech/parity-common/pull/510)

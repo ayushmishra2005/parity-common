@@ -5,6 +5,11 @@ The format is based on [Keep a Changelog].
 [Keep a Changelog]: http://keepachangelog.com/en/1.0.0/
 
 ## [Unreleased]
+## [0.12.0] - 2021-XX-YY TODO: Pick a date
+
+### Breaking
+- Updated `kvdb` to 0.10. [#552](https://github.com/paritytech/parity-common/pull/552)
+- Updated `parity-util-mem` to 0.10. [#552](https://github.com/paritytech/parity-common/pull/552)
 
 ## [0.11.1] - 2021-05-03
 - Updated `rocksdb` to 0.16. [#537](https://github.com/paritytech/parity-common/pull/537)

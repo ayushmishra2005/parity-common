@@ -5,7 +5,10 @@ The format is based on [Keep a Changelog].
 [Keep a Changelog]: http://keepachangelog.com/en/1.0.0/
 
 ## [Unreleased]
-- Updated `impl-codec` to 0.5.1. (FIXME: Link to a PR once opened)
+## [0.12.0] - 2021-XX-YY TODO: Pick a date
+
+### Breaking
+- Updated `impl-codec` to 0.6. [#552](https://github.com/paritytech/parity-common/pull/552)
 ## [0.11.0] - 2021-01-27
 ### Breaking
 - Updated `impl-codec` to 0.5. [#510](https://github.com/paritytech/parity-common/pull/510)

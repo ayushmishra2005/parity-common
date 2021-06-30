@@ -25,8 +25,3 @@ members = [
 	"ethbloom",
 	"parity-util-mem/derive"
 ]
-
-# TODO(xanewok): Remove this once updated `scale-info` is released.
-# See https://github.com/paritytech/scale-info/pull/104
-[patch.crates-io]
-scale-info = { git = "https://github.com/paritytech/scale-info", ref = "43a1fad1eadd73ded1e6808841d5f5be59f347ea" }
